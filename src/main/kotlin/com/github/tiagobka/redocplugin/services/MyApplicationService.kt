@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.tiagobka.redocplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.tiagobka.redocplugin.MyBundle
 
 class MyApplicationService {
 
